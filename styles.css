@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+/* .form{
+	width:700px;
+	height:600px;
+	display:flex;
+	flex-direction:column;
+	
+} */
+div form{
+	display:flex;
+	flex-direction:column;
+	background-color:lightblue;
+}
+div form input[type="radio"]{
+	display:flex;
+	flex-direction:row;	
+}
+.gender{
+	display:inline-block;
+	
+}
